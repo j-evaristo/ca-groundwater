@@ -1,0 +1,46 @@
+refreshed gw_sites_expanded.rdb
+refreshed gw_series_catalog.rdb
+refreshed gw_sites_all_expanded.rdb
+486 wells to download through 2026-07-11
+discrete batch: page 10
+discrete batch: page 20
+discrete batch: page 30
+discrete batch: page 40
+discrete batch: page 50
+discrete batch: page 60
+discrete batch: page 70
+discrete batch: page 80
+discrete batch: page 90
+discrete batch: page 100
+discrete batch: page 110
+discrete batch: page 120
+discrete batch: page 130
+discrete batch: page 140
+discrete batch: page 150
+rate-limited (429); waiting 1146s before resuming
+discrete batch: page 160
+rate-limited (429); waiting 2455s before resuming
+discrete batch: page 170
+discrete batch: page 180
+discrete batch: page 190
+discrete batch: page 200
+discrete batch: page 210
+discrete batch: page 220
+discrete batch: page 230
+rate-limited (429); waiting 1572s before resuming
+discrete batch: page 240
+discrete batch: page 250
+discrete batch: page 260
+discrete batch: page 270
+discrete batch: page 280
+discrete batch: page 290
+discrete batch: page 300
+discrete batch: page 310
+discrete batch: page 320
+rate-limited (429); waiting 211s before resuming
+discrete batch: page 330
+rate-limited (429); waiting 500s before resuming
+discrete batch: page 340
+discrete batch: page 350
+discrete batch: 352 pages, 43933 wells, 2549403 measurements
+DISCRETE-ONLY DONE: 2549403 rows
