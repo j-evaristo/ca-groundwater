@@ -47,7 +47,8 @@ jobs:
           USGS_API_KEY: ${{ secrets.USGS_API_KEY }}
           DISCRETE_SWEEP_BUDGET_MIN: "35"
           DV_RETRY_BUDGET_MIN: "12"   # straggler retry rounds before the archive fallback
-          DISCRETE_REUSE_DAYS: "6"
+          DISCRETE_REUSE_DAYS: "3"    # refresh each county's measurements at least this often
+          DISCRETE_PARTITION: "county" # statewide sweep can't finish within the shared API quota
         timeout-minutes: 90
 
       - name: Update the measurements release store
